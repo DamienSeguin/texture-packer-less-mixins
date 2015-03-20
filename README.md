@@ -1,4 +1,6 @@
-# [TexturePacker Less Mixins](https://github.com/DamienSeguin/texture-packer-less-mixins)
+## Not maintained anymore. Check that [fork](https://github.com/lucien144/texture-packer-less-mixins)
+
+# [TexturePacker Less Mixins](https://github.com/dmnsgn/texture-packer-less-mixins)
 
 This [exporter](http://www.codeandweb.com/texturepacker/documentation#customization) for [TexturePacker](http://www.codeandweb.com/texturepacker/) provide the ability to export sprites in the form of [Less Mixins](http://lesscss.org/#-mixins) : it's handy when your aim is to keep your HTML clean and semantic.
 
